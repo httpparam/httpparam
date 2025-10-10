@@ -28,5 +28,3 @@
   </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/809821056465895445)](https://discord.com/users/809821056465895445)
-
