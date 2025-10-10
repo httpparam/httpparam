@@ -28,7 +28,5 @@
   </a>
 </p>
 
-<h4 align="center">
-  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/809821056465895445"></a>
-</h4>
+[![Discord Presence](https://lanyard.cnrad.dev/api/809821056465895445)](https://discord.com/users/809821056465895445)
 
