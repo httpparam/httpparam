@@ -27,3 +27,8 @@
     <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
   </a>
 </p>
+
+<h4 align="center">
+  <a href="#connect-with-me"><img src="https://lanyard.cnrad.dev/api/809821056465895445"></a>
+</h4>
+
