@@ -26,7 +26,11 @@
   <a href="https://github.com/httpparam/kopy">
     <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
   </a>
+  <a href="https://github.com/httpparam/ivy-wallet">
+    <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
+  </a>
 </p>
+
 
 <!-- Discord RPC (Lanyard)
 <div align="center">
