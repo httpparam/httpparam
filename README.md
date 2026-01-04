@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
   </a>
   <a href="https://github.com/httpparam/ivy-wallet">
-    <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
+    <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="Ivy Wallet repo"/>
   </a>
 </p>
 
